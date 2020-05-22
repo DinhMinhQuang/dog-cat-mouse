@@ -17,3 +17,4 @@ Demo hear
 //git checkout -b <branch> (branching)
 //git checkout <branch>
 //git merge
+//git branch -D <branch> 
