@@ -28,3 +28,6 @@ Demo hear
 //.gitignore
 
 //git remote add origin <url>
+
+//git clone 
+//git pull
