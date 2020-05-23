@@ -1,5 +1,6 @@
 
-var chalk = require('chalk')
+var chalk = require('chalk');
+var cat = require('./cat')
 function dog(name){
     this.name = name;
     this.stomach = [];
