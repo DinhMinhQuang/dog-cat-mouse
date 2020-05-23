@@ -26,3 +26,5 @@ Demo hear
 //git revert <commit>
 
 //.gitignore
+
+//git remote add origin <url>
