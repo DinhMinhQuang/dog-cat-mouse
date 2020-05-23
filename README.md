@@ -18,3 +18,7 @@ Demo hear
 //git checkout <branch>
 //git merge
 //git branch -D <branch> 
+
+//git reset --soft <to_commit>
+//git reset --mixed <to-commit>
+//git reset ---hard <to-commit>
