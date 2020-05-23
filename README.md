@@ -22,3 +22,5 @@ Demo hear
 //git reset --soft <to_commit>
 //git reset --mixed <to-commit>
 //git reset ---hard <to-commit>
+
+//git revert <commit>
