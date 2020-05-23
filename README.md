@@ -24,3 +24,5 @@ Demo hear
 //git reset ---hard <to-commit>
 
 //git revert <commit>
+
+//.gitignore
