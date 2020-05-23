@@ -29,5 +29,14 @@ Demo hear
 
 //git remote add origin <url>
 
+
+//git push 
 //git clone 
 //git pull
+
+//Pull Request 
+// 1. git checkout -b <feature-branch>
+// 2. git push origin <branch>
+// 3. create a pull request on GitHub
+// 4. review code
+// 5. merge to master 
