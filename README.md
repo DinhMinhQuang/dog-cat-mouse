@@ -40,3 +40,17 @@ Demo hear
 // 3. create a pull request on GitHub
 // 4. review code
 // 5. merge to master 
+
+//Resolve conflicts
+When will conflicts happen ? 
+    1. Change the same file + same line
+    2. A deleted file X, B modified file X
+
+Method 1: 
+    1. Using `git rebase` 
+    2. Resolve Conflicts 
+    3. push again with -f 
+Method 2: 
+    1. Merge updated master to feature branch 
+    2. Resolve Conflicts 
+    3. Commit and Push 
