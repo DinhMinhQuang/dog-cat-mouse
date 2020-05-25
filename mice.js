@@ -3,8 +3,8 @@ function mice(name){
     this.dead = false;
 }
 
-Mice.prototype.die = function (){
+mice.prototype.die = function (){
     this.dead = true; 
 };
 
-module.exports = Mice; 
+module.exports = mice; 
